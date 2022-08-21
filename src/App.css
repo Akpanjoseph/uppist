@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+#header{
+  background-color: black;
+  height: 80vh;
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: cover;
+}
